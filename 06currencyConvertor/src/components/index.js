@@ -1,0 +1,6 @@
+import InputBox from "./InputBox";
+
+export {InputBox}
+// ye file isiliye kyuki suppose hmare pass bhttt sare components hote...
+// toh hm ek single file bnakr isme sb import krlete...nd yha se sb export krdete...
+// taki main file me render krate time hme bss yhi ek file import krani pdegi ... na ki hr file alg alg
